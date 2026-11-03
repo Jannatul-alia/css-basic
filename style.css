@@ -1,0 +1,50 @@
+/* google font style */
+
+.open-sans-<uniquifier> {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+body{
+    background-color: rgb(187, 217, 231);
+    font-family: "Open Sans", sans-serif;
+    margin: 30px;
+}
+:root{
+    
+}
+
+#headline{
+    color:rgb(5, 2, 44);
+    text-align: center;
+}
+
+h1+p{
+    color:rgb(92, 11, 146);
+}
+.root{
+    background-color: rgb(23, 13, 172);
+    width: 700px;
+    height:500px;
+    border:2px solid rgb(31, 2, 2);
+    /* margin:20px;
+    padding:40px;
+    text-align: justify; */
+}
+.css-box-model{
+    background-color: rgb(36, 33, 1);
+    width: 500px;
+    height:300px;
+    border:2px solid rgb(31, 2, 2);
+    margin:20px;
+    padding:20px;
+    text-align: justify;
+    border-radius: 20px;
+    color: azure;
+    font-size: 15px;
+    letter-spacing: ;
+}
